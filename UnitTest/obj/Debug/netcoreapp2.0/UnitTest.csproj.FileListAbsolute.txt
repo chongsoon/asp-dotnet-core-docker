@@ -1,0 +1,15 @@
+/home/chongsoon/Documents/VisualStudioWorkspace/MVCMovieSln/UnitTest/obj/Debug/netcoreapp2.0/UnitTest.csproj.CoreCompileInputs.cache
+/home/chongsoon/Documents/VisualStudioWorkspace/MVCMovieSln/UnitTest/obj/Debug/netcoreapp2.0/UnitTest.AssemblyInfoInputs.cache
+/home/chongsoon/Documents/VisualStudioWorkspace/MVCMovieSln/UnitTest/obj/Debug/netcoreapp2.0/UnitTest.AssemblyInfo.cs
+/home/chongsoon/Documents/VisualStudioWorkspace/MVCMovieSln/UnitTest/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/chongsoon/Documents/VisualStudioWorkspace/MVCMovieSln/UnitTest/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/chongsoon/Documents/VisualStudioWorkspace/MVCMovieSln/UnitTest/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/chongsoon/Documents/VisualStudioWorkspace/MVCMovieSln/UnitTest/bin/Debug/netcoreapp2.0/UnitTest.deps.json
+/home/chongsoon/Documents/VisualStudioWorkspace/MVCMovieSln/UnitTest/bin/Debug/netcoreapp2.0/UnitTest.runtimeconfig.json
+/home/chongsoon/Documents/VisualStudioWorkspace/MVCMovieSln/UnitTest/bin/Debug/netcoreapp2.0/UnitTest.runtimeconfig.dev.json
+/home/chongsoon/Documents/VisualStudioWorkspace/MVCMovieSln/UnitTest/bin/Debug/netcoreapp2.0/UnitTest.dll
+/home/chongsoon/Documents/VisualStudioWorkspace/MVCMovieSln/UnitTest/bin/Debug/netcoreapp2.0/UnitTest.pdb
+/home/chongsoon/Documents/VisualStudioWorkspace/MVCMovieSln/UnitTest/bin/Debug/netcoreapp2.0/MvcMovie.dll
+/home/chongsoon/Documents/VisualStudioWorkspace/MVCMovieSln/UnitTest/bin/Debug/netcoreapp2.0/MvcMovie.pdb
+/home/chongsoon/Documents/VisualStudioWorkspace/MVCMovieSln/UnitTest/obj/Debug/netcoreapp2.0/UnitTest.dll
+/home/chongsoon/Documents/VisualStudioWorkspace/MVCMovieSln/UnitTest/obj/Debug/netcoreapp2.0/UnitTest.pdb
