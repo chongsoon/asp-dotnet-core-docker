@@ -1,10 +1,13 @@
 version: 0.2
 
 phases:
-  build:
-    commands:
+  pre_build:
+     commands:
       - dotnet restore
+  build:
+    commands:      
       - dotnet build
 artifacts:
   files:
     - /MVCApp/bin/Debug/netcoreapp2.0/*
+    discard-paths:yes
