@@ -10,4 +10,4 @@ phases:
       - dotnet build
 artifacts:
   files:
-    - MyApp
+    - MVCApp/bin/Debug/netcoreapp2.0/*
