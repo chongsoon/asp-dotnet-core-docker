@@ -3,10 +3,11 @@ version: 0.2
 phases:
   pre_build:
      commands:
+      - cd MVCApp
       - dotnet restore
   build:
     commands:      
       - dotnet build
 artifacts:
   files:
-    - /MVCApp/bin/Debug/netcoreapp2.0/*
+    - /bin/Debug/netcoreapp2.0/*
