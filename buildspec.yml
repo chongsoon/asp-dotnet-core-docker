@@ -6,7 +6,6 @@ phases:
       - cd MVCApp
       - dotnet restore
       - echo Logging in to Amazon ECR...
-      - aws --version
       - $(aws ecr get-login --region $AWS_DEFAULT_REGION --no-include-email)
       - REPOSITORY_URI=409244621220.dkr.ecr.ap-southeast-1.amazonaws.com/mvcmovie
       - IMAGE_TAG=$(echo $CODEBUILD_RESOLVED_SOURCE_VERSION | cut -c 1-7)
