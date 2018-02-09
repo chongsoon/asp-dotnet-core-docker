@@ -29,5 +29,7 @@ phases:
       - docker push $REPOSITORY_URI:$IMAGE_TAG
       - echo Writing image definitions file...
       - printf '[{"name":"mvcmovie","imageUri":"%s"}]' $REPOSITORY_URI:$IMAGE_TAG > imagedefinitions.json
+      - ls
 artifacts:
-  files: imagedefinitions.json
+  files: 
+    - imagedefinitions.json
